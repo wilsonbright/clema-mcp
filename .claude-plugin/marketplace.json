@@ -1,0 +1,16 @@
+{
+  "name": "clema-mcp",
+  "owner": { "name": "Clema", "url": "https://clema.ai" },
+  "metadata": { "description": "Marketplace hosting the Clema plugin for institutional research teams." },
+  "plugins": [
+    {
+      "name": "clema",
+      "description": "Work your IR data request queue and query IPEDS and College Scorecard. Remote MCP server plus a skill.",
+      "version": "1.0.0",
+      "author": { "name": "Clema", "url": "https://clema.ai" },
+      "source": "./",
+      "category": "data",
+      "homepage": "https://github.com/wilsonbright/clema-mcp"
+    }
+  ]
+}

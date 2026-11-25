@@ -1,0 +1,10 @@
+{
+  "name": "clema",
+  "version": "1.0.0",
+  "description": "Clema for institutional research: work your data request queue and query IPEDS and College Scorecard. Remote MCP server plus a skill.",
+  "author": { "name": "Clema", "url": "https://clema.ai" },
+  "homepage": "https://clema.ai/docs/mcp",
+  "repository": "https://github.com/wilsonbright/clema-mcp",
+  "license": "MIT",
+  "keywords": ["institutional research", "higher education", "IPEDS", "College Scorecard", "data requests", "mcp"]
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ai.clema/mcp",
+  "title": "Clema",
+  "description": "Higher-ed IR data requests plus IPEDS and College Scorecard SQL, from any AI client.",
+  "version": "1.0.0",
+  "websiteUrl": "https://clema.ai/docs/mcp",
+  "repository": { "url": "https://github.com/wilsonbright/clema-mcp", "source": "github" },
+  "icons": [
+    { "src": "https://clema.ai/mcp/icon.svg", "mimeType": "image/svg+xml" },
+    { "src": "https://clema.ai/mcp/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] }
+  ],
+  "remotes": [{ "type": "streamable-http", "url": "https://mcp.clema.ai/mcp" }]
+}

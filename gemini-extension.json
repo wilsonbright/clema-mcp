@@ -1,0 +1,7 @@
+{
+  "name": "clema",
+  "version": "1.0.0",
+  "description": "Work your IR data request queue and query IPEDS and College Scorecard from Gemini CLI.",
+  "mcpServers": { "clema": { "httpUrl": "https://mcp.clema.ai/mcp" } },
+  "contextFileName": "skills/clema/SKILL.md"
+}

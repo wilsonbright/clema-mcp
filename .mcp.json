@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "clema": { "type": "http", "url": "https://mcp.clema.ai/mcp" }
+  }
+}

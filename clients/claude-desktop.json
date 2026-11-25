@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "clema": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://mcp.clema.ai/mcp"
+      ]
+    }
+  }
+}
